@@ -17,11 +17,14 @@ Another notable application is XOWA, a free, open-source tool that allows users 
 #
 ### Off-Grid Hardware
 
-![Off-Grid](https://github.com/user-attachments/assets/e05e5cd8-61f7-4250-92cf-2f1fd44c7502)
+![Rugged](https://github.com/user-attachments/assets/2a292677-e57f-4e2a-827c-0b7f1d2c6b4f)
 
 Using new and used laptop computers offline can be an efficient way to maintain productivity while reducing reliance on constant internet access. For tasks such as word processing, coding, or offline gaming, laptops provide a versatile platform. Used laptops, often refurbished, offer cost-effective options with sufficient performance for everyday tasks. These devices can operate offline with pre-installed software and local storage for files, ensuring functionality in areas without internet connectivity. Powering laptops offline requires careful management of battery life, particularly for older models with diminished battery capacities. External power banks and portable solar panels are popular solutions, especially for outdoor or mobile use, allowing extended operation without needing a wall outlet.
 
 Cyberdecks, which are customized or retrofitted computing devices inspired by cyberpunk aesthetics, blend creativity with utility. These devices often utilize repurposed components from used laptops or tablets, offering compact, portable solutions for offline tasks. Cyberdecks are ideal for hobbyists and tech enthusiasts, serving as tools for programming, offline gaming, or creative projects. Their power requirements are usually similar to laptops, with a focus on efficiency. Many cyberdeck creators integrate energy-saving designs, utilizing small batteries or connecting to external power sources like USB battery packs. This adaptability makes them practical for use in various environments, from urban areas to remote locations.
+
+#
+![Off-Grid](https://github.com/user-attachments/assets/e05e5cd8-61f7-4250-92cf-2f1fd44c7502)
 
 #
 ### Related Links
