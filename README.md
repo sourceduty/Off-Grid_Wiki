@@ -31,7 +31,7 @@ Cyberdecks, which are customized or retrofitted computing devices inspired by cy
 [Survival Tech](https://github.com/sourceduty/Survival_Tech)
 <br>
 [Camping Compass](https://github.com/sourceduty/Camping_Compass)
-<br<
+<br>
 [Survivalist Game](https://github.com/sourceduty/Survivalist_Game)
 
 ***
