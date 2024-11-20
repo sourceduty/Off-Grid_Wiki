@@ -24,6 +24,13 @@ Using new and used laptop computers offline can be an efficient way to maintain 
 Cyberdecks, which are customized or retrofitted computing devices inspired by cyberpunk aesthetics, blend creativity with utility. These devices often utilize repurposed components from used laptops or tablets, offering compact, portable solutions for offline tasks. Cyberdecks are ideal for hobbyists and tech enthusiasts, serving as tools for programming, offline gaming, or creative projects. Their power requirements are usually similar to laptops, with a focus on efficiency. Many cyberdeck creators integrate energy-saving designs, utilizing small batteries or connecting to external power sources like USB battery packs. This adaptability makes them practical for use in various environments, from urban areas to remote locations.
 
 #
+### Alex's Thoughts
+
+Alex reflects casually on rugged computers, acknowledging a deep familiarity with their utility and design. Having explored the market, researched extensively, and even tailored programs to take full advantage of their robust capabilities, Alex is well-versed in what makes these devices indispensable for challenging environments. Yet, despite this technical immersion, there's an ironic disconnect—Alex has never owned a rugged laptop or mobile device for survival purposes. It's a lingering gap between theoretical appreciation and personal investment, one that underscores the difference between knowing a product’s potential and integrating it into everyday or critical use.
+
+> Alex: "*I tried to necessitate rugged, survival and off-grid hardware but I don't have a reason to own or use a rugged laptop.*"
+
+#
 ![Off-Grid](https://github.com/user-attachments/assets/e05e5cd8-61f7-4250-92cf-2f1fd44c7502)
 
 #
