@@ -10,6 +10,8 @@ For off-grid use, this program holds significant value as it eliminates the depe
 #
 ### Similar Programs
 
+![Rambo](https://github.com/user-attachments/assets/96d5436d-7a7d-40d7-a99d-c68349211ffe)
+
 Several programs facilitate offline access to wiki content, each offering unique features. Kiwix is a prominent open-source application that enables users to download and read entire websites, including Wikipedia, without an internet connection. It supports various platforms such as Windows, macOS, Linux, Android, and iOS, and utilizes the ZIM file format for compressed storage of web content. Kiwix provides a user-friendly interface with functionalities like full-text search, tabbed navigation, and the ability to export articles to PDF and HTML.
 
 Another notable application is XOWA, a free, open-source tool that allows users to download and view Wikipedia and other wikis offline. Compatible with Windows, macOS, Linux, and Android, XOWA enables users to access over 5 million articles with full HTML formatting and images. It offers features such as an internal browser for viewing content and the capability to host content across a local network. Additionally, DokuWiki is an open-source wiki application written in PHP that works on plain text files, eliminating the need for a database. It is often recommended as a lightweight, easy-to-customize alternative to more complex wiki software.
