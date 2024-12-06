@@ -8,6 +8,13 @@ Off-Grid Rugged Camp Wiki V1.0 is designed as a self-contained offline wiki syst
 For off-grid use, this program holds significant value as it eliminates the dependency on internet access while offering robust note-keeping. Compared to PDFs, the program allows quick, editable access to information in a structured way, with the ability to search content dynamically. However, the default Windows file manager with PDFs offers greater file compatibility, scalability, and shareability across devices. While this program excels in specific survival scenarios due to its focused functionality and offline-first design, PDFs are easier for broader contexts where format preservation and platform independence are critical. Users must weigh their needs for interactivity versus portability to determine the best fit.
 
 #
+### Environments
+
+![Abandoned](https://github.com/user-attachments/assets/281b9bda-2386-4ded-8642-67adb58295ea)
+
+Surviving in urban, remote, and post-apocalyptic environments requires adapting to unique challenges while prioritizing safety, resourcefulness, and situational awareness. In urban settings, survival hinges on navigating hazards like collapsing structures, securing clean water, and finding food in abandoned or looted areas, while staying vigilant against potential threats from other people. Remote wilderness survival demands an understanding of natural resources, such as finding edible plants, purifying water, and building shelters to withstand harsh weather. In post-apocalyptic scenarios, resilience is critical, as resources may be scarce, threats unpredictable, and the environment altered. In all cases, focus on creating a sustainable plan for shelter, water, food, and self-defense, while minimizing risks and conserving energy. Adaptability and knowledge are your most important tools in any survival situation.
+
+#
 ### Similar Programs
 
 ![Rambo](https://github.com/user-attachments/assets/96d5436d-7a7d-40d7-a99d-c68349211ffe)
